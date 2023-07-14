@@ -1,0 +1,2 @@
+# InventorPropCopy
+Copy Inventor Properties
